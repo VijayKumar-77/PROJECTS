@@ -1,0 +1,1 @@
+My college major Project which I worked on Heart Disease Prediction using Machine Learning Algorithms, Python and Java.We can see the documentation and abstarct how to implement.Source code not allowed.
